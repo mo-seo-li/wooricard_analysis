@@ -39,7 +39,7 @@
 
 ---
 
-### 20대
+### 🐣 20대
 
 <img width="1912" height="708" alt="20대" src="https://github.com/user-attachments/assets/36169224-999f-4e18-aac2-21530320f976" />
 
@@ -67,7 +67,7 @@
 
 ---
 
-### 30대
+### 💼 30대
 
 <img width="1800" height="855" alt="30대" src="https://github.com/user-attachments/assets/f80d38c6-0988-4ca8-87c7-ca53803b4e06" />
 
@@ -95,7 +95,7 @@
 
 ---
 
-### 40대
+### ⚖️ 40대
 
 <img width="2936" height="1616" alt="40대" src="https://github.com/user-attachments/assets/3bb6786f-24e6-49d0-9129-750b4cf1da84" />
 
@@ -121,7 +121,7 @@
 
 ---
 
-### 50대
+### 👑 50대
 
 <img width="1905" height="654" alt="50대" src="https://github.com/user-attachments/assets/dd7a5f00-f77e-4556-b216-38c50a5b92dc" />
 
