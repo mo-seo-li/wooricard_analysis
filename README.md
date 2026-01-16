@@ -3,14 +3,10 @@
 연령대(20~50대)별 카드 소비 데이터를 **Elasticsearch + Kibana**로 시각화/분석하여, **신규 고객 유치(잠재고객 정의)** 및 **카드 혜택 설계 방향**(업종·혜택 구조)에 대한 인사이트 도출 프로젝트
 ## 👨‍💻 팀원 소개
 
-| 이름 | GitHub | 한 줄 소개 |
+| <img src="https://github.com/thdus.png" width="150" height="150"/> | <img src="https://github.com/Kumin-91.png" width="150" height="150"/> | <img src="https://github.com/minchaeki.png" width="150" height="150"/> | <img src="https://github.com/young2z1.png" width="150" height="150"/> |
 | :---: | :---: | :---: | :---: |
-| **김소연** | [@thdus](https://github.com/chulsoo) | "20대 연령의 카드 데이터 분석" |
-| **최승민** |  [@Kumin-91](https://github.com/younghee) | "30대 연령의 카드 데이터 분석" |
-| **김민채** | [@minchaeki](https://github.com/minsoo) | "40대 연령의 카드 데이터 분석" |
-| **서주영** | [@young2z1](https://github.com/minsoo) | "50대 연령의 카드 데이터 분석" |
-
----
+| **김소연** <br/> [@thdus](https://github.com/thdus) | **최승민** <br/> [@Kumin-91](https://github.com/Kumin-91) | **김민채** <br/> [@minchaeki](https://github.com/minchaeki) | **서주영** <br/> [@young2z1](https://github.com/young2z1) |
+| 20대 데이터 분석 | 30대 데이터 분석 | 40대 데이터 분석 | 50대 데이터 분석 |
 
 ## 목차
 
