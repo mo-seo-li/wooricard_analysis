@@ -6,7 +6,7 @@
 | <img src="https://github.com/thdus.png" width="150" height="150"/> | <img src="https://github.com/Kumin-91.png" width="150" height="150"/> | <img src="https://github.com/minchaeki.png" width="150" height="150"/> | <img src="https://github.com/young2z1.png" width="150" height="150"/> |
 | :---: | :---: | :---: | :---: |
 | **김소연** <br/> [@thdus](https://github.com/thdus) | **최승민** <br/> [@Kumin-91](https://github.com/Kumin-91) | **김민채** <br/> [@minchaeki](https://github.com/minchaeki) | **서주영** <br/> [@young2z1](https://github.com/young2z1) |
-| 20대 데이터 분석 | 30대 데이터 분석 | 40대 데이터 분석 | 50대 데이터 분석 |
+| 20대 데이터 분석 및 시각화 | 30대 데이터 분석 및 시각화| 40대 데이터 분석 및 시각화| 50대 데이터 분석 및 시각화|
 
 ## 목차
 
